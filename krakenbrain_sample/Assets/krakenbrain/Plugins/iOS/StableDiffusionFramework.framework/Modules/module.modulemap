@@ -1,0 +1,11 @@
+framework module StableDiffusionFramework {
+  umbrella header "StableDiffusionFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module StableDiffusionFramework.Swift {
+  header "StableDiffusionFramework-Swift.h"
+  requires objc
+}
