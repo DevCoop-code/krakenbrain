@@ -1,7 +1,7 @@
-# KrakenBrain - DeepLearning OnDevice Unity SDK
+# KrakenBrain - OnDevice DeepLearning Unity SDK
 Run DeepLearning on Device at runtime in Unity
 
-## Support DeepLearning Model
+## Support DeepLearning Models
 - [StableDiffusion - CoreML](#stablediffusion)
 
 |   DeepLearning Model  |    Android    |   iOS     |   Mac OSX     |   Window  |
