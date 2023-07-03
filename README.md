@@ -34,7 +34,6 @@ Target Device Hardware Generation
 | :------: | :---------:|
 |    M1    |     A14    |
 </details>
-<br>
 
 ### Using Ready-made Core ML Models from Hugging Face Hub
 <details>
@@ -49,7 +48,6 @@ Target Device Hardware Generation
 - [Converting Models to Core ML](https://github.com/apple/ml-stable-diffusion/blob/main/README.md#-converting-models-to-core-ml)
 
 </details>
-<br>
 
 ### Using Stable Diffusion onDevice in Unity
 <details>
@@ -74,7 +72,6 @@ Target Device Hardware Generation
 </p>
 
 </details>
-<br>
 
 ### Issues
 - Low Memory Issue frequentily occured
