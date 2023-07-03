@@ -94,7 +94,7 @@ static IntPointerCallbackListener g_intPointerCallbackListener = NULL;
                                                      /*4 * CGImageGetWidth(imageRef),*/
                                                      CVPixelBufferGetBytesPerRow(pixelBuffer),
                                                      rgbColorSpace,
-                                                     kCGImageAlphaPremultipliedLast);
+                                                     kCGImageByteOrder32Little | kCGImageAlphaPremultipliedFirst);
         NSParameterAssert(context);
 
         CGContextConcatCTM(context, CGAffineTransformMakeRotation(0));
