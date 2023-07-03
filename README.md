@@ -8,6 +8,8 @@ Run DeepLearning on Device at runtime in Unity
 | :-------------------: | :-----------: | :-------: | :-----------: | :-------: |
 |    StableDiffusion    |***Not*** Support|**Support**|***Not*** Support|***Not*** Support|
 
+## Downloads
+Please check out our [releases](https://github.com/DevCoop-code/krakenbrain/releases) for the latest official version of the plugin
 
 ## StableDiffusion
 <p align="center">
